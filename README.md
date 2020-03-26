@@ -1,5 +1,7 @@
 # CMT112 - Web Application Development
 
+!> This is an archive and not the live site for the current course. This site relates to the module as it was in 18/19. If you are currently taking this module do not use this website.
+
 These pages contain the course notes, links, videos and reading for CMT112 - Web Application Development, an Autumn Semester 20 Credit Level 7 module in the School of Computer Science & Informatics at Cardiff University.
 
 [Latest Module Description](https://data.cardiff.ac.uk/legacy/grails/module/CMT112/18A.html)
@@ -11,16 +13,13 @@ These pages contain the course notes, links, videos and reading for CMT112 - Web
 
 The module is broken down into three parts:
 
-* [1. Introduction to HTML, CSS & JS](part-1) - (Weeks 1 - 4)
-* [2. JavaScript Fundamentals](part-2) (Weeks 4 - 8)
-* [3. Server Side Development](part-3) (Weeks 8 - 10)
-
-
+-   [1. Introduction to HTML, CSS & JS](part-1) - (Weeks 1 - 4)
+-   [2. JavaScript Fundamentals](part-2) (Weeks 4 - 8)
+-   [3. Server Side Development](part-3) (Weeks 8 - 10)
 
 ## Schedule
 
 Contact sessions take place on Thursday mornings from 9:00am to 1pm in C/2.04 & C/2.05 in Weeks 1 to 10. An additional contact session will be held in Week 11, but no new material will be presented, this session will be a coursework surgery for the final assessment in the module.
-
 
 ## Course Resources
 
@@ -30,11 +29,11 @@ The material is arranged by topic. In each topic there will be links to things t
 
 It is expected that before each week’s contact session you will have:
 
-* read the relevant sections of the notes and watched any accompanying videos
-* read any external recommended reading
-* watched any code example demo videos
-* worked through any recommended external tutorials
-* completed any online quizzes
+-   read the relevant sections of the notes and watched any accompanying videos
+-   read any external recommended reading
+-   watched any code example demo videos
+-   worked through any recommended external tutorials
+-   completed any online quizzes
 
 !> Activities within each contact session will depend on you having completed the recommended reading, watching and doing. At the end of each contact session you will be advised of which material you need to engage with before the next week's session.
 
@@ -47,6 +46,7 @@ There are no formal/traditional ‘lectures’ on this course. You have better t
 Each 20 credit module is equivalent to approximately 200 hours of study. Our contact time makes up about 30-40 hours of this 200. The online reading, videos and tutorials are perhaps somewhere around 70 hours of study. This leaves you 100 hours for your own study, for completing group and individual lab exercises, and for completing the coursework assignments.
 
 ## Course Engagement
+
 !> All contact sessions for the course are compulsory.
 
 Engagement with the online activities may be monitored through analytics software.
@@ -56,17 +56,18 @@ There is no punishment for non-attendance in the module. However, the level of e
 (This essentially means “don’t skip lectures, not bother with doing the reading, miss all the online quizzes and then expect an answer to your email about the coursework the day before it’s due in, because you won’t be getting one!”)
 
 ## Coursework Assignments
+
 This module is assessed through two coursework assignments, there is no exam.
 
 Coursework 1 is worth 30% of the module marks, and involves developing a simple static website.
 
-* Hand out Week 2
-* Hand out Week 5
+-   Hand out Week 2
+-   Hand out Week 5
 
 Coursework 2 is worth 70% of the module marks, and involves developing an interactive web application.
 
-* Hand out Week 7
-* Hand in Week 12
+-   Hand out Week 7
+-   Hand in Week 12
 
 ?> All assignments will be submitted through Learning Central. Marks and written feedback will be returned via GradeCentre. This will be supplemented by oral feedback during a contact session.
 
